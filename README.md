@@ -98,6 +98,10 @@ $ rosrun map_server map_saver -f ~/map
 ![7](https://user-images.githubusercontent.com/86648269/124053361-c2ff7280-da28-11eb-835f-e39bc4b843e5.png)
 
 
+![8](https://user-images.githubusercontent.com/86648269/124064380-4c20a480-da3d-11eb-92d3-2fa777dcfbd1.png)
+
+
+
 
 
 
